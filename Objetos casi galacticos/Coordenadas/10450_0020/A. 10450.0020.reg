@@ -1,0 +1,25 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+galactic
+circle(104.5767511,0.3520831,12.000") # color=magenta text={104.5767511 0.3520831}
+circle(104.8850839,0.1235789,12.000") # color=magenta text={104.8850839  0.1235789}
+circle(104.3535770,0.8027495,12.000") # color=magenta text={104.3535770  0.8027495}
+circle(104.2952411,0.8099152,12.000") # color=magenta text={104.2952411 0.8099152}
+circle(104.0175639,0.7607428,12.000") # color=magenta text={104.0175639 0.7607428}
+circle(104.0105633,0.7739094,12.000") # color=magenta text={104.0105633 0.7739094}
+circle(104.3724399,0.6927773,0.000")
+circle(104.4524800,0.3732125,12.000") # color=magenta text={104.4524800 0.3732125}
+circle(104.3202486,0.2224156,12.000") # color=magenta text={104.3202486  0.2224156}
+circle(104.1463236,0.5457461,12.000") # color=magenta text={104.1463236 0.5457461}
+circle(104.2758295,0.3930262,12.000") # color=magenta text={104.2758295 0.3930262}
+circle(104.5951103,-0.0331392,12.000") # color=magenta text={104.5951103 -0.0331392}
+circle(103.9986477,-0.0393595,12.000") # color=magenta text={103.9986477 -0.0393595}
+circle(104.2223486,0.8472986,12.000") # color=magenta text={104.2223486 0.8472986}
+circle(104.7235042,0.4098595,12.000") # color=magenta text={104.7235042 0.4098595}
+circle(104.9178383,0.2936892,12.000") # color=magenta text={104.9178383 0.2936892}
+circle(104.6972657,0.2984488,12.000") # color=magenta text={104.6972657 0.2984488}
+circle(104.8390517,0.5070532,17.280") # color=magenta text={104.8390517 0.5070532}
+circle(104.7963328,0.6281473,12.000") # color=magenta text={104.7963328 0.6281473}
+circle(104.8589769,0.7195260,12.000") # color=magenta text={104.8589769 0.7195260}
+circle(104.1793447,0.0296736,12.000") # color=magenta text={104.1793447 0.0296736}
+circle(104.5915901,0.1213898,12.000") # color=magenta text={104.5915901 0.1213898}

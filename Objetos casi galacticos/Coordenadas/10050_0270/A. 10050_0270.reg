@@ -1,0 +1,23 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+galactic
+circle(101.0026897,3.2203131,12.000") # color=magenta text={G13}
+circle(101.0177236,3.2458067,12.000") # color=magenta text={G12}
+circle(100.9990675,2.9361478,12.000") # color=magenta text={G2}
+circle(101.0467603,3.0412939,12.000") # color=magenta text={G3}
+circle(101.0209075,3.0500239,12.000") # color=magenta text={G4}
+circle(100.9896253,3.1463183,12.000") # color=magenta text={G5}
+circle(100.9619314,3.1438292,12.000") # color=magenta text={G1}
+circle(101.0408964,3.1092542,12.000") # color=magenta text={G6}
+circle(100.9903617,2.9647789,12.000") # color=magenta text={G7}
+circle(100.9902472,2.9275642,12.000") # color=magenta text={G8}
+circle(100.9991011,2.9301056,12.000") # color=magenta text={G9}
+circle(100.9510192,3.0856600,12.000") # color=magenta text={G9}
+circle(101.0182522,2.9196397,12.000") # color=magenta text={G10}
+circle(100.9655978,3.1732514,12.000") # color=magenta text={G11}
+circle(100.9900036,3.2206514,12.000") # color=magenta text={G14}
+circle(101.0020011,3.2721467,12.000") # color=magenta text={G16}
+circle(101.0166378,3.0476406,12.000") # color=magenta text={G14}
+circle(100.9755514,3.2291572,12.000") # color=magenta text={G15}
+circle(100.9294189,3.2484631,12.000") # color=magenta text={G17}
+

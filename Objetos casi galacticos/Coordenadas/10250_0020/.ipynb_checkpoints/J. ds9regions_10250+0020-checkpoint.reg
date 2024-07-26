@@ -1,0 +1,28 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+galactic
+circle(102.9370469,0.6842495,12.000") # color=yellow text={102.9370469 + 0.6842495}
+circle(102.7655300,0.3487718,12.000") # color=yellow text={102.7646660 + 0.3473319}
+circle(102.8130501,0.3115150,12.000") # color=yellow text={102.8130501 + 0.3115150}
+circle(103.0281882,0.2962455,12.000") # color=yellow text={103.0281882 + 0.2962455}
+circle(102.9800883,0.1782603,12.000") # color=yellow text={102.9800883 + 0.1782603}
+circle(102.7355747,0.1450296,12.000") # color=yellow text={102.7355747 + 0.1450296}
+circle(102.6286348,0.1979108,12.000") # color=yellow text={102.6286348 + 0.1979108}
+circle(102.6087044,0.2618256,12.000") # color=yellow text={102.6087044 + 0.2618256}
+circle(102.4223663,0.3171058,12.000") # color=yellow text={102.4223663 + 0.3171058}
+circle(102.5755851,0.4737258,12.000") # color=yellow text={102.5755851 + 0.4737258}
+circle(102.5945263,0.6081964,12.000") # color=yellow text={102.5945263 + 0.6081964}
+circle(102.5012287,0.7176380,12.000") # color=yellow text={102.5016434 + 0.7172233}
+circle(102.2899945,0.7902287,12.000") # color=yellow text={102.2899945 + 0.7902287}
+circle(102.9407690,0.8080774,12.000") # color=yellow text={102.9407690 + 0.8080774}
+circle(102.8970996,0.7732452,12.000") # color=yellow text={102.8970996 + 0.7732452}
+circle(102.9840967,0.5525762,12.000") # color=yellow text={102.9840967 + 0.5525762}
+circle(102.9850945,0.4777428,12.000") # color=yellow text={102.9850945 + 0.4777428}
+circle(102.9580943,0.4942436,12.000") # color=yellow text={102.9580943 + 0.4942436}
+circle(102.9099214,0.2915782,12.000") # color=yellow text={102.9099214 + 0.2915782}
+circle(102.8749226,0.3580790,12.000") # color=yellow text={102.8749226 + 0.3580790}
+circle(102.7549205,0.3472147,12.000") # color=yellow text={102.7549205 + 0.3472147}
+circle(102.6302829,0.0458828,12.000") # color=yellow text={102.6302829 + 0.0458828}
+circle(102.6207184,0.3326496,12.000") # color=yellow text={102.6207184 + 0.3326496}
+circle(102.4130804,0.6515831,12.000") # color=yellow text={102.4130804 + 0.6515831}
+circle(102.1178002,0.8076055,12.000") # color=yellow text={102.1178002 + 0.8076055}
